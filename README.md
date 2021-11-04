@@ -65,10 +65,9 @@ Many more....
 7. npm install
 8. npm run watch
 9. run command[laravel file manager]:-  php artisan storage:link
-10. Edit .env file :- remove APP_URL
-11. php artisan serve or use virtual host
-12. Visit localhost:8000 in your browser
-13. Visit /admin if you want to access the admin panel. Admin Email/Password: dezen.kai@gmail.com/1111. User Email/Password: user@gmail.com/1111
+10. php artisan serve or use virtual host
+11. Visit localhost:8000 in your browser
+12. Visit /admin if you want to access the admin panel. Admin Email/Password: dezen.kai@gmail.com/1111. User Email/Password: user@gmail.com/1111
 
 <p style="text-align:center">Thank You so much for your time !!!</p>
 
